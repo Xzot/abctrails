@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+<title>penguin</title>
+<g transform="translate(-3 -16) scale(1.0247)">
+<g id="p01">
+<ellipse cx="104" cy="232" rx="18" ry="9" fill="#FF9F1C"/>
+<g id="p01_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<ellipse cx="104" cy="232" rx="18" ry="9"/>
+</g>
+</g>
+<g id="p02">
+<ellipse cx="152" cy="232" rx="18" ry="9" fill="#FF9F1C"/>
+<g id="p02_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<ellipse cx="152" cy="232" rx="18" ry="9"/>
+</g>
+</g>
+<g id="p03">
+<ellipse cx="64" cy="150" rx="17" ry="50" fill="#73679C" transform="rotate(16 64 150)"/>
+<g id="p03_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<ellipse cx="64" cy="150" rx="17" ry="50"  transform="rotate(16 64 150)"/>
+</g>
+</g>
+<g id="p04">
+<ellipse cx="192" cy="150" rx="17" ry="50" fill="#73679C" transform="rotate(-16 192 150)"/>
+<g id="p04_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<ellipse cx="192" cy="150" rx="17" ry="50"  transform="rotate(-16 192 150)"/>
+</g>
+</g>
+<g id="p05">
+<path d="M128 40C137.9 40 149.7 41.9 157.6 45.7C165.5 49.4 170.7 55.1 175.5 62.5C180.3 69.9 183.9 77.9 186.3 90.1C188.8 102.4 190 120.7 190 136C190 151.3 188.8 169.6 186.3 181.9C183.9 194.1 180.3 202.1 175.5 209.5C170.7 216.9 165.5 222.6 157.6 226.3C149.7 230.1 137.9 232 128 232C118.1 232 106.3 230.1 98.4 226.3C90.5 222.6 85.3 216.9 80.5 209.5C75.7 202.1 72.1 194.1 69.7 181.9C67.2 169.6 66 151.3 66 136C66 120.7 67.2 102.4 69.7 90.1C72.1 77.9 75.7 69.9 80.5 62.5C85.3 55.1 90.5 49.4 98.4 45.7C106.3 41.9 118.1 40 128 40Z" fill="#73679C"/>
+<path d="M122.6 41.1L129.7 41.3L137.1 42.2L144.1 43.8L150.5 46L154.9 48.3L159.5 51.7L163.4 55.7L167 60.3L170.8 66.5L173.6 72.2L176 78.8L177.6 85.1L179.3 94L180.3 102.7L181.1 113.9L181.6 127.1L180.9 151.3L178.8 170.5L177.3 177.6L175.2 184.9L172.7 191.1L169.2 197.6L165.2 203.4L161.5 207.8L157.3 211.5L152.3 214.6L147.4 216.6L140.7 218.5L133.4 219.7L125 220.3L117.8 220.1L110.5 219.2L103.4 217.6L98 215.8L93.4 213.6L88.8 210.3L85.3 207.1L81.7 202.7L77.8 196.7L74.8 191.1L72.3 184.9L70.2 177.6L68.5 169L67.2 158.8L66.4 139.9L67 116L69.2 95L70.7 87.2L72.9 79.3L75.5 72.5L78.5 66.5L82.6 60L86.5 55.2L90.8 51L95.8 47.5L101.7 44.7L108.7 42.6L115.4 41.6Z" fill="#7D7890"/>
+<g id="p05_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<path d="M128 40C137.9 40 149.7 41.9 157.6 45.7C165.5 49.4 170.7 55.1 175.5 62.5C180.3 69.9 183.9 77.9 186.3 90.1C188.8 102.4 190 120.7 190 136C190 151.3 188.8 169.6 186.3 181.9C183.9 194.1 180.3 202.1 175.5 209.5C170.7 216.9 165.5 222.6 157.6 226.3C149.7 230.1 137.9 232 128 232C118.1 232 106.3 230.1 98.4 226.3C90.5 222.6 85.3 216.9 80.5 209.5C75.7 202.1 72.1 194.1 69.7 181.9C67.2 169.6 66 151.3 66 136C66 120.7 67.2 102.4 69.7 90.1C72.1 77.9 75.7 69.9 80.5 62.5C85.3 55.1 90.5 49.4 98.4 45.7C106.3 41.9 118.1 40 128 40Z"/>
+</g>
+</g>
+<g id="p06">
+<ellipse cx="128" cy="172" rx="42" ry="52" fill="#CEBED4"/>
+<ellipse cx="126" cy="169.5" rx="39.3" ry="48.7" fill="#FFF4E0"/>
+<g id="p06_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<ellipse cx="128" cy="172" rx="42" ry="52"/>
+</g>
+</g>
+<ellipse cx="128" cy="98" rx="44" ry="32" fill="#FFF4E0"/>
+<ellipse cx="100" cy="96" rx="28" ry="30" fill="#FFF4E0"/>
+<ellipse cx="156" cy="96" rx="28" ry="30" fill="#FFF4E0"/>
+<ellipse cx="100" cy="96" rx="10.3" ry="13.4" fill="#3D3A4B"/>
+<circle cx="96.6" cy="91" r="4.8" fill="#FFFFFF"/>
+<circle cx="103.6" cy="101.5" r="2" fill="#FFFFFF"/>
+<ellipse cx="156" cy="96" rx="10.3" ry="13.4" fill="#3D3A4B"/>
+<circle cx="152.6" cy="91" r="4.8" fill="#FFFFFF"/>
+<circle cx="159.6" cy="101.5" r="2" fill="#FFFFFF"/>
+<g id="p07">
+<path d="M117.7 111.3Q111 102.5 122 102.5L134 102.5Q145 102.5 138.3 111.3L133.2 118.1Q128 125 122.8 118.1Z" fill="#FF9F1C"/>
+<g id="p07_line" fill="none" stroke="#3D3A4B" stroke-width="6.3" stroke-linejoin="round">
+<path d="M117.7 111.3Q111 102.5 122 102.5L134 102.5Q145 102.5 138.3 111.3L133.2 118.1Q128 125 122.8 118.1Z"/>
+</g>
+</g>
+</g>
+</svg>
